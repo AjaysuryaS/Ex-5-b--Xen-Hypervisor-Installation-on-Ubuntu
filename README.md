@@ -51,7 +51,7 @@ Now restart your system.
 •	Choose Memory and CPU settings by specifying RAM size and number of CPUs.
 •	Enable the storage of the VM by specifying disk size.
 •	Now the OS is ready to begin it’s installation process in your VM.
-7.	Now the VM is ready with the specified OS installed within it.
+7.	Now the VM is ready with the specified OS installed within it. 
 
 
 
